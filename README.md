@@ -20,12 +20,20 @@ You also need to have [SageMath](https://www.sagemath.org/download.html) install
 
 ## To-Do List
 
-- [ ] Improve the run time of the algorithm.
+### First:
 - [ ] Reconstruct the hyperplane as a P.subscheme instead of a list of points.
+- [ ] Investigate different methods for reconstructing the hyperplane. (also as a subscheme)
 - [ ] Define lines as P.subschemes instead of lists of points.
-- [ ] Investigate different methods for reconstructing the hyperplane.
-- [ ] Consider recreating the implementation in Rust.
+
+### Second:
 - [ ] Create standalone functions or minimize dependency on SageMath.
+
+### Third:
+- [ ] Consider recreating the implementation in Rust.
+- [ ] Improve the run time of the algorithm.
+
+### Fourth:
+- [ ] Add a RSA layer to transfer the partial secret
 
 ## Contributing
 
