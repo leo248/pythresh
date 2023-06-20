@@ -1,4 +1,4 @@
-# pythresh -> T-Threshold Scheme After David Jungnickel
+# pythresh a t-thresholdscheme After David Jungnickel
 
 This is an implementation of a t-threshold scheme as described by David Jungnickel. This scheme is a cryptographic concept that allows a secret to be shared among a group of participants in such a way that only when a certain threshold of participants come together, the secret can be reconstructed.
 
