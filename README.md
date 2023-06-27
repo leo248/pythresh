@@ -24,6 +24,7 @@ You also need to have [SageMath](https://www.sagemath.org/download.html) install
 - [ ] Reconstruct the hyperplane as a P.subscheme instead of a list of points.
 - [ ] Investigate different methods for reconstructing the hyperplane. (also as a subscheme)
 - [ ] Define lines as P.subschemes instead of lists of points.
+- [ ] if q > t define arc via vandermonsche matrizes
 
 ### Second:
 - [ ] Create standalone functions or minimize dependency on SageMath.
